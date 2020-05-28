@@ -1,0 +1,7 @@
+export const GET_FRONT_PAGE_TWEETS = 'GET_FRONT_PAGE_TWEETS';
+export const ADD_NEW_TWEET = 'ADD_NEW_TWEET';
+export const GET_USERS = 'GET_USERS';
+export const GET_HASHTAGS = 'GET_HASHTAGS';
+export const ADD_NEW_HASHTAG = 'ADD_NEW_HASHTAG';
+export const UPDATE_HASHTAG = 'UPDATE_HASHTAG';
+export const SEARCH_HASHTAG = 'SEARCH_HASHTAG';

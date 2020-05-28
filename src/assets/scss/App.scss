@@ -1,0 +1,48 @@
+.container {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+a {
+  text-decoration: none;
+  color: $link-color;
+  transition: 300ms;
+}
+
+.site-logo {
+  margin-bottom: 25px;
+}
+
+.btn--primary {
+  background: $primary_color;
+  height: 47px;
+  line-height: 47px;
+  text-align: center;
+  color: white;
+  font-weight: 600;
+  border-radius: 50px;
+  padding: 0 20px;
+  min-width: 150px;
+  font-size: 15px;
+  letter-spacing: 1px;
+  transition: 300ms;
+
+  &:hover {
+    background: darken( $primary_color , 3%);
+  }
+}
+
+.page-wrapper {
+  display: flex;
+}
+
+.main-tweet-feed {
+  padding-left: 15px;
+  margin-top: 20px;
+}
+
+.main-content {
+  width: 600px;
+  border-right: 1px solid $border_color;
+}

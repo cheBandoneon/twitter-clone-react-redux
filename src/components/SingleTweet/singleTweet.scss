@@ -1,0 +1,30 @@
+.single-tweet {
+    padding-left: 70px;
+    position: relative;
+    text-align: left;
+
+    &__author-name {
+        font-weight: bold;
+    }
+
+    &__avatar {
+        position: absolute;
+        height: 50px;
+        width: 50px;
+        border-radius: 100%;
+        display: block;
+        left: 0;
+        top: 0;
+    }
+
+    &__content {
+        margin-top: 5px;
+    }
+
+    &__author-mention-name , &__date { 
+        font-size: 12px;
+        opacity: .5;
+        margin-left: 10px;
+    }
+
+}

@@ -1,0 +1,19 @@
+@import '../../assets/scss/variables.scss';
+
+.main-sidebar {
+    width: 250px;
+    border-right: 1px solid $border_color;
+}
+  
+.twitter-sidebar-menu li {
+    display: block;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.twitter-sidebar-menu li a {
+    font-size: 20px;
+    font-weight: 900;
+    color: #222;
+    text-decoration: none;
+}
