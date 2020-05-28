@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5e861da8c095dd3f946a5250"},"first_name":"Jordan","last_name":"Romaidis","username":"jordan_sketo","avatar":"https://picsum.photos/200","password":"admin","follows":["5e862170c095dd3f946a5251"]}
+{"_id":{"$oid":"5e862170c095dd3f946a5251"},"avatar":"https://picsum.photos/200","first_name":"Hoffman","last_name":"Noel"}
+{"_id":{"$oid":"5e862170c095dd3f946a5252"},"avatar":"https://picsum.photos/200","first_name":"Melendez","last_name":"Boone"}
+{"_id":{"$oid":"5e862170c095dd3f946a5253"},"avatar":"https://picsum.photos/200","first_name":"Alba","last_name":"Summers"}
+{"_id":{"$oid":"5e862170c095dd3f946a5254"},"avatar":"https://picsum.photos/200","first_name":"Florence","last_name":"Myers"}
+{"_id":{"$oid":"5e862170c095dd3f946a5255"},"avatar":"https://picsum.photos/200","first_name":"Marcia","last_name":"Mccarty"}
+{"_id":{"$oid":"5ead53ed1624743129c75779"},"follows":["5e862170c095dd3f946a5251"],"first_name":"James","last_name":"Brown","username":"test_user","password":"$2b$10$OXW7fx86.3eR3WNPVrT2SeDUttZpZVEirFqnj8IKCQARnZZ7PBPeu","__v":{"$numberInt":"0"}}
